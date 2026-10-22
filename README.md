@@ -1,5 +1,7 @@
 # Cubox Marvell Armada 510 (first generation) images
 
+dd if=imgname.img of=/dev/sdX
+
 ## Debian 10
 cubox : cubox
 
